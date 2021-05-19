@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @Mugitaba
 - 👀 I’m interested in many things. Programing is a new hobby. 
 - 🌱 I’m currently learning python. 
-- 📫 If you want to contact me you can email me at mugitaba.k@gmail.com
